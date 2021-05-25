@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Zadanie Asynchroniczne</string>
+
+    <string name="poleTekstowe1"> Brak wyniku </string>
+    <string name="poleTekstowe2"> Brak wyniku </string>
+    <string name="poleTekstowe3"> Liczba powtorzeń : </string>
+    <string name="poleTekstowe4"> Pauza [ms] : </string>
+
+    <string name="poleEdycyjne1"> 10 </string>
+    <string name="poleEdycyjne2"> 100 </string>
+
+    <string name="przycisk1"> Wystartuj zadanie 1 </string>
+    <string name="przycisk2"> Wystartuj zadanie 1 </string>
+    <string name="przycisk3"> Wystartuj zad. 2 </string>
+    <string name="przycisk4"> Przerwij zad. 2 </string>
+
+    <string name="working"> Working... </string>
+
+</resources>
